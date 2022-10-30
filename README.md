@@ -2,9 +2,11 @@
 
 Made from React (CRA), Tailwind CSS, Daisy Ui, The API From Public
 
-# Recipe Cooking Project
+# Dont Forget
 
-Dont forget before use Add npm install
+### `npm install`
+
+for add node modules in your folder 😁
 
 ### `npm start`
 
