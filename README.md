@@ -2,6 +2,10 @@
 
 Made from React (CRA), Tailwind CSS, Daisy Ui, The API From Public
 
+# Recipe Cooking Project
+
+Dont forget before use Add npm install
+
 ### `npm start`
 
 Runs the app in the development mode.\
