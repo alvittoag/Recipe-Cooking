@@ -1,4 +1,4 @@
-# Recipe Cooking Project
+# FrontEnd - Recipe Cooking
 
-Made from React (CRA), Tailwind CSS, Daisy Ui, The API From Public
+`Technologi: JavaScript, React (CRA), Tailwind `
 
